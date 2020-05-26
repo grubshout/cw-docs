@@ -8,7 +8,7 @@ description: >-
 
 ## Starting The Setup Process
 
-1. Complete this form [https://airtable.com/shr4UleQsOP7OApli](https://airtable.com/shr4UleQsOP7OApli)
+1. Complete this form https://airtable.com/
 2. We will setup your billing account and contact you for the deposit
 3. Once the deposit is paid, we will set up your account
 4. Finally, we will provide you instructions to connect your domain to your reseller platform
@@ -46,6 +46,4 @@ When we set up your reseller platform, we would have either enabled or disabled 
 {% hint style="info" %}
 You can use your reseller password in the e-mail confirmation code field to bypass the verification process
 {% endhint %}
-
-
 

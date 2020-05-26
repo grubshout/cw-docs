@@ -6,45 +6,45 @@ description: How to guide to print with a network printer
 
 ## **Network printing**
 
-#### **1. Please go to Windows Control Panel**
+### **1. Please go to Windows Control Panel**
 
 ![](../.gitbook/assets/untitled%20%281%29.png)
 
-#### **2. Open Devices and Printers**
+### **2. Open Devices and Printers**
 
 ![](../.gitbook/assets/untitled-1.png)
 
-#### 3. Right click and select 'Printer Properties'
+### 3. Right click and select 'Printer Properties'
 
 ![](../.gitbook/assets/untitled-2%20%285%29.png)
 
-#### 4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+### 4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-#### 5. To test that the printer is working, please press Print Test Page
+### 5. To test that the printer is working, please press Print Test Page
 
 ![](../.gitbook/assets/untitled-3%20%281%29.png)
 
-#### 6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+### 6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
 
-#### 7. Open the PushPrinter for Windows program application
+### 7. Open the PushPrinter for Windows program application
 
-#### 8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+### 8. Go to the 'settings' cog and select the default or GrubShout provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
-#### 9. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
+### 9. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
 
 ![](../.gitbook/assets/automatically-start-pushprinter.png)
 
-#### 10. Press the printer button
+### 10. Press the printer button
 
 ![](../.gitbook/assets/untitled-6.png)
 
-#### **11.** Using the Create Printer button, create printer
+### **11.** Using the Create Printer button, create printer
 
 ![](../.gitbook/assets/untitled-7%20%284%29.png)
 
-#### 12. Add settings including API key from the printer just created.
+### 12. Add settings including API key from the printer just created.
 
 For network printer: Name the printer. Add API printer \(found in store printer settings\), set number of copies, add printer IP address and set port to 9100\).
 
@@ -53,9 +53,9 @@ For network printer: Name the printer. Add API printer \(found in store printer 
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of GrubShout.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of GrubShout.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -64,11 +64,11 @@ For network printer: Name the printer. Add API printer \(found in store printer 
 **Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
 {% endhint %}
 
-#### 13. Test print
+### 13. Test print
 
-#### 14. Create printer
+### 14. Create printer
 
-#### 15. Go to your store and place a test order.
+### 15. Go to your store and place a test order.
 
 \*\*\*\*
 
