@@ -6,7 +6,7 @@ description: >-
 
 # 10-Minute Quickstart
 
-[https://www.youtube.com/watch?v=SGv9-2-B6WI](https://www.youtube.com/watch?v=SGv9-2-B6WI)
+
 
 {% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
 
