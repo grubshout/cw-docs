@@ -4,15 +4,15 @@ description: How to setup your API key
 
 # Printing - API Key
 
-## 1. Login to your GrubShout account at admin.grubshout.menu and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
+#### 1. Login to your CloudWaitress account at [admin.cloudwaitress.com](https://admin.cloudwaitress.com/login?redirect=%2F) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
 ![](../.gitbook/assets/1-create-printer.png)
 
-## 2. Name the printer, ideally use the same name as the settings in PushPrinter to avoid confusion. We also recommend turning on 'Auto Print Orders' and 'Auto Print Bookings'.
+#### 2. Name the printer, ideally use the same name as the settings in PushPrinter to avoid confusion. We also recommend turning on 'Auto Print Orders' and 'Auto Print Bookings'.
 
 ![](../.gitbook/assets/untitled%20%282%29.png)
 
-## 3. Now select 'Printer Settings' and make sure that;
+#### 3. Now select 'Printer Settings' and make sure that;
 
 **Printing Method** - is set to ESCPOS
 
@@ -22,11 +22,11 @@ description: How to setup your API key
 
 ![](../.gitbook/assets/untitled-1%20%282%29.png)
 
-## 4. Scroll to the bottom on the screen and press the 'Save' button.
+#### 4. Scroll to the bottom on the screen and press the 'Save' button.
 
-## 5. Then highlight the API key &gt; right click &gt; copy to clipboard.
+#### 5. Then highlight the API key &gt; right click &gt; copy to clipboard.
 
 ![](../.gitbook/assets/untitled-2%20%283%29.png)
 
-## 6. Paste the API key into the relevant API field in PushPrinter.
+#### 6. Paste the API key into the relevant API field in PushPrinter.
 

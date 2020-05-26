@@ -7,6 +7,8 @@ description: >-
 
 # Setup Your Menus
 
+
+
 {% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
 
 ## Setup Process
