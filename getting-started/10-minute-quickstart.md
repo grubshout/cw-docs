@@ -10,8 +10,6 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=SGv9-2-B6WI" caption="Quickstart Video Tutorial" %}
 
-
-
 ## Quick-start Steps
 
 1. Visit grubshout.menu and sign up for an account
